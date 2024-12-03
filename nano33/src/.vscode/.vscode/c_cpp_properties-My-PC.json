@@ -1,0 +1,97 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/include",
+                "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/src",
+                "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/.pio/libdeps/nano_33_iot/FastLED/src",
+                "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/.pio/libdeps/nano_33_iot/WiFiNINA/src",
+                "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/.pio/libdeps/nano_33_iot/Arduino_LSM6DS3/src",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/Wire",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SPI",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated-avr-comp",
+                "C:/Users/buguniao/.platformio/packages/framework-cmsis/CMSIS/Include",
+                "C:/Users/buguniao/.platformio/packages/framework-cmsis-atmel/CMSIS/Device/ATMEL",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/cores/arduino",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/variants/nano_33_iot",
+                "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/lib/gesture_recognition",
+                "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/.pio/libdeps/nano_33_iot/FreeRTOS_SAMD21/src",
+                "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/.pio/libdeps/nano_33_iot/Unity/src",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/HID",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/I2S/src",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SAMD_AnalogCorrection/src",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SAMD_BootloaderUpdater/src",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SBU/src",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SDU/src",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SFU/src",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SNU/src",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SSU/src",
+                "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/USBHost/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/include",
+                    "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/src",
+                    "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/.pio/libdeps/nano_33_iot/FastLED/src",
+                    "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/.pio/libdeps/nano_33_iot/WiFiNINA/src",
+                    "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/.pio/libdeps/nano_33_iot/Arduino_LSM6DS3/src",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/Wire",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SPI",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated-avr-comp",
+                    "C:/Users/buguniao/.platformio/packages/framework-cmsis/CMSIS/Include",
+                    "C:/Users/buguniao/.platformio/packages/framework-cmsis-atmel/CMSIS/Device/ATMEL",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/cores/arduino",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/variants/nano_33_iot",
+                    "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/lib/gesture_recognition",
+                    "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/.pio/libdeps/nano_33_iot/FreeRTOS_SAMD21/src",
+                    "C:/Users/buguniao/OneDrive/UPenn/classes/smart_devices/final_project/final-project-stack/nano_33/.pio/libdeps/nano_33_iot/Unity/src",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/HID",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/I2S/src",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SAMD_AnalogCorrection/src",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SAMD_BootloaderUpdater/src",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SBU/src",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SDU/src",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SFU/src",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SNU/src",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/SSU/src",
+                    "C:/Users/buguniao/.platformio/packages/framework-arduino-samd/libraries/USBHost/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60116",
+                "ARDUINO_SAMD_NANO_33_IOT",
+                "CRYSTALLESS",
+                "__SAMD21G18A__",
+                "ARDUINO=10805",
+                "F_CPU=48000000L",
+                "USBCON",
+                "USB_VID=0x2341",
+                "USB_PID=0x8057",
+                "USB_PRODUCT=\"Arduino NANO 33 IoT\"",
+                "USB_MANUFACTURER=\"Arduino\"",
+                "ARDUINO_ARCH_SAMD",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "C:/Users/buguniao/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mcpu=cortex-m0plus",
+                "-mthumb",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

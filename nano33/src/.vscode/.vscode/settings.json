@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ino": "cpp",
+        "*.h": "c",
+        "process_serial.c": "cpp",
+        "cmath": "cpp"
+    }
+}
