@@ -1,0 +1,48 @@
+﻿
+Unigraphics NX V1926 / 2D Exchange
+
+Reading part: C:\Users\buguniao\AppData\Local\Temp\bugu61B0D6B7ucaa.prt
+
+
+Writing part: C:\Users\buguniao\AppData\Local\Temp\bugu61B0D6B7uca9.prt
+
+Elapsed time   :    0 minutes,  1 seconds
+Actual CPU Time:    0 minutes,  0 seconds
+
+INFO-
+INFO-		Unigraphics Version NX V1926 to AutoCAD 2018
+INFO-		
+INFO-
+INFO-		Running UGTODWG Translator .....
+INFO-
+INFO-		Start of Translation: Sun Dec  1 21:48:00 2024
+INFO-
+STATUS-		Converting C:\Users\buguniao\AppData\Local\Temp\bugu61B0D6B7uca9.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\buguniao\AppData\Local\Temp\bugu61B0D6B7uca9.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	32
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	32
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\buguniao\OneDrive\UPenn\classes\smart_devices\final_project\final-project-stack\model\house_motor_door.dwg
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	32
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	38
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Sun Dec  1 21:48:31 2024
+INFO-		Translation CPU time: 0 m, 31 sINFO-

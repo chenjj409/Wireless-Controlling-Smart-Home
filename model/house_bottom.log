@@ -1,0 +1,50 @@
+﻿
+Unigraphics NX V1926 / 2D Exchange
+
+Reading part: C:\Users\buguniao\AppData\Local\Temp\bugu8074C858kf1h.prt
+
+
+Writing part: C:\Users\buguniao\AppData\Local\Temp\bugu8074C858kf1g.prt
+
+Elapsed time   :    0 minutes,  0 seconds
+Actual CPU Time:    0 minutes,  0 seconds
+
+INFO-
+INFO-		Unigraphics Version NX V1926 to AutoCAD 2018
+INFO-		
+INFO-
+INFO-		Running UGTODWG Translator .....
+INFO-
+INFO-		Start of Translation: Tue Nov 26 16:26:23 2024
+INFO-
+STATUS-		Converting C:\Users\buguniao\AppData\Local\Temp\bugu8074C858kf1g.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\buguniao\AppData\Local\Temp\bugu8074C858kf1g.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	80
+SUMMARY-	Circle ...................................:	2
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	82
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\buguniao\OneDrive\UPenn\classes\smart_devices\final_project\final-project-stack\model\house_bottom.dwg
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Circle ...................................:	2
+SUMMARY-	Line .....................................:	80
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	88
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Tue Nov 26 16:26:23 2024
+INFO-		Translation CPU time: 0 m, 1 sINFO-
